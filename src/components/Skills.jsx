@@ -73,7 +73,7 @@ const mySoftSkills = [
 
 ]
 
-const myHardSkills = [
+export const myHardSkills = [
     {
         skill: 'HTML',
         nivel: 'Intermediário',
